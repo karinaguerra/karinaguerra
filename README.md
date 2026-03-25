@@ -7,13 +7,6 @@
 
 I’m a technology professional with experience in data, business, and creative problem‑solving. I specialize in system support, incident management, and data analysis, and I hold a Post‑Tech degree in Data Analytics (FIAP).I spent four years in Toronto, Canada, and later worked as a freelancer in technology, design, and audiovisual, adding ~9 years of experience in graphic design. I also contributed to an audiovisual projects.
 
-**Languages:**
-- 🇧🇷 Portuguese (native)
-- 🇺🇸 English (fluent)
-- 🇨🇦 Lived 4 years in Toronto, using English in daily life and work
-
-
-
 <p align="left">
     <a href="https://www.linkedin.com/in/kaguerra/">
         <img 
@@ -81,3 +74,8 @@ I’m a technology professional with experience in data, business, and creative 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinaguerra&langs_count=8&custom_title=Tools&theme=tokyonight"
   />
 </p>
+---
+**Languages:**
+- 🇧🇷 Portuguese (native)
+- 🇺🇸 English (fluent)
+- 🇨🇦 Lived 4 years in Toronto, using English in daily life and work
