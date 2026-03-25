@@ -70,12 +70,7 @@ I’m a technology professional with experience in data, business, and creative 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinaguerra&langs_count=8&custom_title=Tools&theme=tokyonight"
   />
 </p>
----
-**Languages:**
-- 🇧🇷 Portuguese (native)
-- 🇺🇸 English (fluent)
-- 🇨🇦 Lived 4 years in Toronto, using English in daily life and work
+
